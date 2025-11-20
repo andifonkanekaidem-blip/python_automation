@@ -28,9 +28,10 @@ Built using **Selenium** with the **Edge WebDriver**.
 
 4. Check quotes.csv for the scraped data.
 
-##WebDriver
+## WebDriver
 To run this scrapper, download the correct Edge WebDriver version from Microsoft:
 https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver
 
 Place `msedgedriver.exe` inside the `EdgeDriver` folder
+
 

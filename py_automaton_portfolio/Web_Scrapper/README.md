@@ -24,9 +24,13 @@ Built using **Selenium** with the **Edge WebDriver**.
 ## Usage
 1. Download Edge WebDriver and ensure it’s in your PATH.
 2. Place `web_scraper.py` in your project folder.
-3. Run the script:
-```bash
-python web_scraper.py
+3. Run the script: python web_scraper.py
 
 4. Check quotes.csv for the scraped data.
+
+##WebDriver
+To run this scrapper, download the correct Edge WebDriver version from Microsoft:
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver
+
+Place `msedgedriver.exe` inside the `EdgeDriver` folder
 
